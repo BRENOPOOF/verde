@@ -58,7 +58,7 @@ Purple = {
 	Save = {
 		UISize = {550, 380},
 		TabSize = 160,
-		Theme = "Green"
+		Theme = "Purple"
 	},
 	Settings = {},
 	Connection = {},
