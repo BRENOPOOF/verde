@@ -58,7 +58,7 @@ Purple = {
 	Save = {
 		UISize = {550, 380},
 		TabSize = 160,
-		Theme = "Purple"
+		Theme = "Green"
 	},
 	Settings = {},
 	Connection = {},
@@ -3222,13 +3222,13 @@ end
 				ClickDelay = true
 				SetProps(JoinButton, {
 					Text = "Copied to Clipboard",
-					BackgroundColor3 = Color3.fromRGB(100, 100, 100),
-					TextColor3 = Color3.fromRGB(64, 0, 120)
+					BackgroundColor3 = Color3.fromRGB(0, 255, 0),
+					TextColor3 = Color3.fromRGB(0, 255, 0)
 				})task.wait(5)
 				SetProps(JoinButton, {
 					Text = "Join",
-					BackgroundColor3 = Color3.fromRGB(50, 150, 50),
-					TextColor3 = Color3.fromRGB(64, 0, 120)
+					BackgroundColor3 = Color3.fromRGB(0, 255, 0),
+					TextColor3 = Color3.fromRGB(0, 255, 0)
 				})ClickDelay = false
 			end)
 			
